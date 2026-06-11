@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Vijay Mehta 👋
 
-<!--
-**vijaymehta123/vijaymehta123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Backend Developer
 
-Here are some ideas to get you started:
+I am passionate about building scalable backend applications using Java and Spring Boot. I enjoy learning new technologies and developing real-world projects that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+* Java
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* MySQL
+* REST APIs
+* Maven
+* Docker
+* Git & GitHub
+
+### 📂 Featured Projects
+
+#### 🛒 E-Commerce Application
+
+* Secure authentication using JWT
+* Role-based authorization
+* Product management
+* Shopping cart functionality
+* Order management system
+
+#### 👨‍💼 Employee Management System
+
+* CRUD operations
+* REST APIs
+* MySQL database integration
+* Layered architecture
+
+
+### 📫 Connect With Me
+
+* GitHub: github.com/vijaymehta123
+* LinkedIn: www.linkedin.com/in/vijay-mehta-8a901038a
+
+### ⚡ Fun Fact
+
+I enjoy building backend systems and continuously improving my problem-solving skills.
