@@ -26,7 +26,7 @@ I am passionate about building scalable backend applications using Java and Spri
 * Shopping cart functionality
 * Order management system
 
-#### 👨‍💼 Employee Management System
+#### 👨‍💼 Student Management System
 
 * CRUD operations
 * REST APIs
